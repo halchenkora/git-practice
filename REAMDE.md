@@ -6,8 +6,10 @@ Open the link https://github.com/halchenkora/cars_management. Then copy SSH key 
 
 ## Step 2
 Open terminal on your local machine and execute next command:
+<br>
 <b>git clone https://github.com/halchenkora/cars_management</b>
 
 ## Step 3
 Run the app with command:
+<br>
 <b>ruby index.rb<b>
